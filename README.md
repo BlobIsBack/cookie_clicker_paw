@@ -4,7 +4,7 @@ to add it in a browser : open the console (CTRL + SHIFT + i) and use the command
 
 to set the default image back, just reload the browser
 
-to always have it, you can use the userscript in the repo, to installit you need an extension like [violentmonkey](https://violentmonkey.github.io/)
+to always have it, you can use the userscript in the repo, to install it you need an extension like [violentmonkey](https://violentmonkey.github.io/)
 
 the image is based on the one from [this addon](https://kayofeld.github.io/Cookie-Clicker-mod/boykisser.js)
 
