@@ -30,4 +30,4 @@ to add it to the steam version, subscribe to the add-on [here](https://steamcomm
 
 the image is based on the one from [this addon](https://kayofeld.github.io/Cookie-Clicker-mod/boykisser.js), i edited it so it looks better (imo)
 
-the userscript was generated using ChatGPT, as i forgot the syntax lol
+the userscript was generated using AI as i forgot the syntax lol
