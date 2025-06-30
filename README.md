@@ -28,6 +28,6 @@ to always have it, you can use the [userscript](https://github.com/BlobIsBack/co
 
 to add it to the steam version, subscribe to the add-on [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3512226136)
 
-the image is based on the one from [this addon](https://kayofeld.github.io/Cookie-Clicker-mod/boykisser.js), i edited it so it looks better (imo)
+the image is based on the one from [this add-on](https://kayofeld.github.io/Cookie-Clicker-mod/boykisser.js), i edited it so it looks better (imo)
 
 the javascript was mainly generated using AI as i'm lazy idk
