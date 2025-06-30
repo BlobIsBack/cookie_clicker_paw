@@ -1,6 +1,6 @@
 # cookie_clicker_paw
 
-### for the best experience, use the [userscript](https://github.com/BlobIsBack/cookie_clicker_paw/raw/refs/heads/main/pawclicker.user.js) on browser and the [add-on](https://steamcommunity.com/sharedfiles/filedetails/?id=3512226136 on steam
+### for the best experience, use the [userscript](https://github.com/BlobIsBack/cookie_clicker_paw/raw/refs/heads/main/pawclicker.user.js) on browser and the [add-on](https://steamcommunity.com/sharedfiles/filedetails/?id=3512226136) on steam
 
 to temporarily add it in a browser : open the console (CTRL + SHIFT + i) and use the command 
 
