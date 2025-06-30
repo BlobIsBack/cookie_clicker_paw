@@ -31,3 +31,5 @@ to add it to the steam version, subscribe to the add-on [here](https://steamcomm
 the image is based on the one from [this add-on](https://kayofeld.github.io/Cookie-Clicker-mod/boykisser.js), i edited it so it looks better (imo)
 
 the javascript was mainly generated using AI as i'm lazy idk
+
+if you have any issues, restart the game and/or browser, if the issue persists or happens often, feel free to do an issue or a pull request
